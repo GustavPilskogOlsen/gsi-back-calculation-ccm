@@ -1,4 +1,4 @@
-# Optimization program for Back-Calculating GSI (based on CCM)
+# Optimization program for Back-Calculating GSI (using CCM)
 
 A Python implementation of the Convergence-Confinement Method (CCM) for back-calculating the in-situ Geological Strength Index (GSI) from measured tunnel convergence. The program is provided as a Streamlit web app that opens in your browser.
 
