@@ -19,7 +19,7 @@ The two Python files `ccm_solver.py` and `ccm_app.py` must sit in the same folde
 
 ## Install the required packages (one time)
 
-In the terminal:
+Run these commands in the terminal:
 
 **macOS**
 ```bash
@@ -31,7 +31,8 @@ In the terminal:
 python -m pip install --user streamlit pandas numpy scipy matplotlib
 ```
 
----
+------------------
+
 
 ## Run the app
 
